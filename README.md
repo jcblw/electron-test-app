@@ -1,5 +1,7 @@
 # Electron Test App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/electron-test-app.svg)](https://greenkeeper.io/)
+
 This is a small test app built on [Electron](https://github.com/atom/electron). The client portion of the app is build in [React](https://facebook.github.io/react/index.html).
 
 ## Install
